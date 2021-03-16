@@ -1,5 +1,4 @@
-# imitate-baidu-Online-Disk
-# distributed-fileserver
+# imitate-baidu-distributed-fileserver
 
 基于golang实现的一种分布式云存储服务
 
